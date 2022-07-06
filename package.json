@@ -8,6 +8,9 @@
     "start": "node app.js",
     "start-local": "nodemon --inspect app.js"
   },
+  "keywords": [
+    "node"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
